@@ -1,0 +1,19 @@
+{
+  "name": "aseprite-theme-th-sydi",
+  "displayName": "Aseprite Default Theme:Thai (Pixel Font)",
+  "description": "Default Aseprite Pixel-Art Themes With SyyDai's Thai Pixel Font",
+  "version": "1.0",
+  "author": { "name": "hiohlan", "email": "-", "url": "https://mk.na.in.th/@hiohlan" },
+  "contributors": [],
+  "publisher": "-",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "default-th-sydi", "path": ".", "variant": "Light" },
+      { "id": "default-th-sydi-dark", "path": "./dark", "variant": "Dark" }
+    ]
+  }
+}
